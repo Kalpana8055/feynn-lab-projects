@@ -1,0 +1,16 @@
+Brand,Model,Battery Capacity (kWh),Range (km),AccelSec,TopSpeed_KmH
+Tata,Nexon EV,30.2,312,9.9,120
+Tata,Tiago EV,24.0,250,12.0,110
+Tata,Tigor EV,26.0,306,10.0,120
+MG,ZS EV,50.3,419,8.5,140
+MG,Comet EV,17.3,230,12.3,105
+Hyundai,Kona Electric,39.2,452,9.7,155
+Hyundai,Ioniq 5,72.6,631,5.2,185
+Mahindra,eVerito,21.2,181,13.0,86
+Mahindra,XUV400,39.4,456,8.3,150
+BYD,Atto 3,60.5,521,7.3,160
+BYD,e6,71.7,518,7.0,160
+Kia,EV6,77.4,528,5.2,192
+Kia,Carens EV,45.0,300,8.0,150
+BMW,i4,83.9,590,5.7,190
+Mercedes,EQB,66.5,423,6.0,180
